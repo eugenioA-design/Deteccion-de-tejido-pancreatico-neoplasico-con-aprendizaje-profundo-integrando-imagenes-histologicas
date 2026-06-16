@@ -5,6 +5,9 @@ Eugenio Andrade
 #Este repositorio contiene el código fuente desarrollado para la tesis de maestría, centrada en el desarrollo de un modelo de aprendizaje profundo multimodal débilmente supervisado para la detección del adenocarcinoma ductal pancreático (PDAC) y su caracterización molecular mediante la integración de imágenes WSI y datos transcriptómicos.
 
 #Primer apartado: Modelo basado en UNI + Attention MIL para la identificación de adenocarcinoma pancreático ductal
+<p align="center">
+  <img src="images/figura 1 tesis.png" width="900">
+</p>
   - Preprocesamiento de imágenes WSI
   - Segmentación de tejidos
   - Extracción de parches
@@ -14,6 +17,9 @@ Eugenio Andrade
   - Visualización de parches representativos
 
 #Segundo apartado: Modelo basado en Graph Attention Network (GAT) para la clasificación de los subtipos moleculares Basal-like y Classical de los pacientes con PDAC.
+<p align="center">
+  <img src="images/figura 2 tesis.png" width="900">
+</p>
   - Preprocesamiento transcriptómico
   - Construcción de firmas moleculares
   - Etiquetado y calculo de puereza molecular
