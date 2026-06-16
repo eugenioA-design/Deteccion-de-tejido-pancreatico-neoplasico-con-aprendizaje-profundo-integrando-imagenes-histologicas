@@ -5,13 +5,13 @@ Eugenio Andrade
 #Este repositorio contiene el código fuente desarrollado para la tesis de maestría, centrada en el desarrollo de un modelo de aprendizaje profundo multimodal débilmente supervisado para la detección del adenocarcinoma ductal pancreático (PDAC) y su caracterización molecular mediante la integración de imágenes WSI y datos transcriptómicos.
 
 #Primer apartado: Modelo basado en UNI + Attention MIL para la identificación de adenocarcinoma pancreático ductal
-  -Preprocesamiento de imágenes WSI
-  -Segmentación de tejidos
-  -Extracción de parches
-  -Normalización de parches
-  -Extracción de características mediante el modelo UNI
-  -Aprendizaje de instancias múltiples basado en atención (Attention MIL)
-  -Visualización de parches representativos
+  - Preprocesamiento de imágenes WSI
+  - Segmentación de tejidos
+  - Extracción de parches
+  - Normalización de parches
+  - Extracción de características mediante el modelo UNI
+  - Aprendizaje de instancias múltiples basado en atención (Attention MIL)
+  - Visualización de parches representativos
 
 #Segundo apartado: Modelo basado en Graph Attention Network (GAT) para la clasificación de los subtipos moleculares Basal-like y Classical de los pacientes con PDAC.
   -Preprocesamiento transcriptómico
@@ -35,18 +35,18 @@ Las bases de datos, extraccion de parches, generacion de embeddings, estructuras
 
 #Complementos utilizados
 Este framework se sesarrollo con:
--Python
--Jupyter Notebook
--PyTorch
--Torch Geometric
--timm
--OpenSlide
--NumPy
--Pandas
--Scikit-learn
--Scikit-image
--Pillow
--Matplotlib
+- Python
+- PyTorch
+- Jupyter Notebook
+- Torch Geometric
+- timm
+- OpenSlide
+- NumPy
+- Pandas
+- Scikit-learn
+- Scikit-image
+- Pillow
+- Matplotlib
 
 #Aviso
 Antes de ejecutar los notebooks o scripts, los usuarios deben modificar las rutas de todos los directorios locales según la organización de su sistema de archivos.
