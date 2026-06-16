@@ -14,13 +14,13 @@ Eugenio Andrade
   - Visualización de parches representativos
 
 #Segundo apartado: Modelo basado en Graph Attention Network (GAT) para la clasificación de los subtipos moleculares Basal-like y Classical de los pacientes con PDAC.
-  -Preprocesamiento transcriptómico
-  -Construcción de firmas moleculares
-  -Etiquetado y calculo de puereza molecular
-  -Extracción de caracteristicas con UNI
-  -Construcción de grafos espaciales
-  -Modelo GAT ponderado por pureza molecular
-  -Visualización de parches representativos y mapas de atención
+  - Preprocesamiento transcriptómico
+  - Construcción de firmas moleculares
+  - Etiquetado y calculo de puereza molecular
+  - Extracción de caracteristicas con UNI
+  - Construcción de grafos espaciales
+  - Modelo GAT ponderado por pureza molecular
+  - Visualización de parches representativos y mapas de atención
 
 #Fuentes de datos (publicas)
 Imágenes histológicas 
