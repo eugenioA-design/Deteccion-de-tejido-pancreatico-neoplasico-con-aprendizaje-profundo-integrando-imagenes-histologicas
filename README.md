@@ -8,13 +8,13 @@ Eugenio Andrade
 <p align="center">
   <img src="images/figura_1_tesis.png" width="900">
 </p>
-  - Preprocesamiento de imágenes WSI
-  - Segmentación de tejidos
-  - Extracción de parches
-  - Normalización de parches
-  - Extracción de características mediante el modelo UNI
-  - Aprendizaje de instancias múltiples basado en atención (Attention MIL)
-  - Visualización de parches representativos
+- Preprocesamiento de imágenes WSI
+- Segmentación de tejidos
+- Extracción de parches
+- Normalización de parches
+- Extracción de características mediante el modelo UNI
+- Aprendizaje de instancias múltiples basado en atención (Attention MIL)
+- Visualización de parches representativos
 
 #Segundo apartado: Modelo basado en Graph Attention Network (GAT) para la clasificación de los subtipos moleculares Basal-like y Classical de los pacientes con PDAC.
 <p align="center">
