@@ -8,6 +8,7 @@ Eugenio Andrade
 <p align="center">
   <img src="images/figura_1_tesis.png" width="900">
 </p>
+
 - Preprocesamiento de imágenes WSI
 - Segmentación de tejidos
 - Extracción de parches
@@ -20,13 +21,14 @@ Eugenio Andrade
 <p align="center">
   <img src="images/figura_2_tesis.png" width="900">
 </p>
-  - Preprocesamiento transcriptómico
-  - Construcción de firmas moleculares
-  - Etiquetado y calculo de puereza molecular
-  - Extracción de caracteristicas con UNI
-  - Construcción de grafos espaciales
-  - Modelo GAT ponderado por pureza molecular
-  - Visualización de parches representativos y mapas de atención
+
+- Preprocesamiento transcriptómico
+- Construcción de firmas moleculares
+- Etiquetado y calculo de puereza molecular
+- Extracción de caracteristicas con UNI
+- Construcción de grafos espaciales
+- Modelo GAT ponderado por pureza molecular
+- Visualización de parches representativos y mapas de atención
 
 #Fuentes de datos (publicas)
 Imágenes histológicas 
