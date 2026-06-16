@@ -6,7 +6,7 @@ Eugenio Andrade
 
 #Primer apartado: Modelo basado en UNI + Attention MIL para la identificación de adenocarcinoma pancreático ductal
 <p align="center">
-  <img src="images/figura 1 tesis.png" width="900">
+  <img src="images/figura_1_tesis.png" width="900">
 </p>
   - Preprocesamiento de imágenes WSI
   - Segmentación de tejidos
@@ -18,7 +18,7 @@ Eugenio Andrade
 
 #Segundo apartado: Modelo basado en Graph Attention Network (GAT) para la clasificación de los subtipos moleculares Basal-like y Classical de los pacientes con PDAC.
 <p align="center">
-  <img src="images/figura 2 tesis.png" width="900">
+  <img src="images/figura_2_tesis.png" width="900">
 </p>
   - Preprocesamiento transcriptómico
   - Construcción de firmas moleculares
