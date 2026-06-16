@@ -53,9 +53,11 @@ Antes de ejecutar los notebooks o scripts, los usuarios deben modificar las ruta
 El proyecto original se desarrolló utilizando estructuras de directorios locales que difieren de las de otros usuarios.
 
 #Para reproducir
-
   1. Descargar los conjuntos de datos originales de los repositorios oficiales
   2. Organizar los archivos según la estructura de directorios esperada
   3. Actualizar todas las rutas de entrada y salida en los cuadernos
   4. Instalar los paquetes de Python necesarios
   5. Ejecutar los cuadernos secuencialmente
+
+#Nota
+Este repositorio tiene fines académicos y de investigación. Debido a las restricciones de distribución y al gran tamaño de los datos originales, únicamente se proporciona el código fuente desarrollado durante la presente tesis de maestría.
