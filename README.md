@@ -12,7 +12,7 @@ El trabajo comprende dos etapas. La primera utiliza embeddings histológicos y A
 ## Primera etapa: clasificación de tejido tumoral frente a NAT
 
 <p align="center">
-  <img src="images/figura_1_tesis.png" width="900" alt="Esquema de clasificación de tejido tumoral frente a NAT">
+  <img src="images/Figura1tesis.png" width="900" alt="Esquema de clasificación de tejido tumoral frente a NAT">
 </p>
 
 El procedimiento incluye:
@@ -53,7 +53,7 @@ La comparación corresponde a una única partición y semilla de entrenamiento. 
 ## Segunda etapa: clasificación molecular Classical y Basal-like
 
 <p align="center">
-  <img src="images/figura_2_tesis.png" width="900" alt="Esquema de supervisión molecular y clasificación histológica mediante UNI y GAT">
+  <img src="images/Figura2tesis.png" width="900" alt="Esquema de supervisión molecular y clasificación histológica mediante UNI y GAT">
 </p>
 
 El procedimiento incluye:
